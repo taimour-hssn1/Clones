@@ -218,6 +218,7 @@ const LogIn = styled.a`
         background-color: #f9f9f9;
         color: black;
         border-color: transparent;
+        cursor: pointer;
     }
 `;
 
