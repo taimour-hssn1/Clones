@@ -59,7 +59,7 @@ const Detail = (props) => {
                 </SubTitles>
 
                 <Description>
-                    {detail.descriptioj}
+                    {detail.description}
                 </Description>
 
             </ContentMeta>
