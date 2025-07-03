@@ -41,7 +41,10 @@ Builds the app for production to the `build/` folder.
 ## 🚀 Deployment
 
 This app is deployed on **Firebase Hosting**.  
-👉 **Deploy**
+Deployed Link: https://disney-clone-231db.web.app/
+
+
+## 📸 Preview
 ![image](https://github.com/user-attachments/assets/afde8145-9c4a-4cf5-811c-15fb5e019aaf)
 ![image](https://github.com/user-attachments/assets/d1041e13-6815-4bbd-8461-d0d9dd09593b)
 ![image](https://github.com/user-attachments/assets/8c777238-833a-4071-bd3b-2c79225a57c0)
